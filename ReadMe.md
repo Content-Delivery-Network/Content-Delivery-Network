@@ -2,7 +2,7 @@
 
 <br> 
 
-$${\color{#3f5a61}\textbf{The&nbsp;&nbsp;Delivery&nbsp;&nbsp;Framework&nbsp;&nbsp;Of&nbsp;&nbsp;Network&nbsp;&nbsp;Streaming}}$$
+$${\color{#3f5a61}\textbf{The&nbsp;&nbsp;Delivery&nbsp;&nbsp;Framework&nbsp;&nbsp;Of&nbsp;&nbsp;Streaming&nbsp;&nbsp;Network}}$$
 
 <br><br>
 
