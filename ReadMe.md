@@ -2,7 +2,7 @@
 
 <br> 
 
-$${\color{#3f5a61}\textbf{Quantum} \space \textbf{Technology} \space \textbf{In} \space \textbf{The} \space \textbf{Making}}$$
+$${\color{#3f5a61}\textbf{The&nbsp;&nbsp;Delivery&nbsp;&nbsp;Framework&nbsp;&nbsp;Of&nbsp;&nbsp;Network&nbsp;&nbsp;Streaming}}$$
 
 <br><br>
 
