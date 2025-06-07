@@ -2,7 +2,7 @@
 
 <br> 
 
-$${\color{#3f5a61}\textbf{The\ \ Test}}$$
+$${\textcolor{blue}{\textbf{The\ \ Test}}}$$
 
 <br><br>
 
