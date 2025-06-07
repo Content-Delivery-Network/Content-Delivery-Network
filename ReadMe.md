@@ -2,7 +2,7 @@
 
 <br> 
 
-$${\textcolor{blue}{\textbf{The\ \ Test}}}$$
+$${\textbf{The Delivery Streaming Network}}$$
 
 <br><br>
 
